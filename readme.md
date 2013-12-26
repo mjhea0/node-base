@@ -1,6 +1,6 @@
 ## quick start
 
-1. `$ git clone git@github.com:mjhea0/node-base-advanced.git your_app`
+1. `$ git clone https://github.com/mjhea0/node-base.git your_app`
 2. `$ cd your_app`
 3. `$ npm install`
 4. `$ node app`
