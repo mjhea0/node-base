@@ -1,8 +1,9 @@
 {
   "express": {
-    "port": 3000
+    "port": 1337
   },
   "mongo": {
-    "url":  "mongodb://localhost/node-api"
+    "url": "mongodb://localhost/node-base-advanced"
   }
 }
+

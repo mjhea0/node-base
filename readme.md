@@ -18,3 +18,7 @@
 ## logging (winston)
 
 1. add logging settings to config files
+
+## seed database
+
+1. `$ node seed.js`
