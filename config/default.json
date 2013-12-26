@@ -1,5 +1,8 @@
 {
   "application": {
-  	"name": "node-base"
-  } 
+   "name": "vision"
+  },
+  "mongo": {
+    "url":  "mongodb://localhost/node-api"
+  }
 }

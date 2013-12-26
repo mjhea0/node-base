@@ -1,9 +1,12 @@
 {
   "express": {
-    "port": 1339
+    "port": 3000
   },
   "logger": {
-  	"filename": "logs/run.log",
-  	"level": "silly" 
+    "filename": "logs/run.log",
+    "level": "silly" 
+  },
+  "mongo": {
+    "url":  "mongodb://localhost/node-api"
   }
 }
